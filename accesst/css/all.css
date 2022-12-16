@@ -1,0 +1,21 @@
+button{
+    padding:15px 40px ;
+    color: #96BB7C;
+    Font-family: Montserrat;
+    Font-style: Bold;
+    Font-size: 14px;
+    Line-height: 22px;
+    Line-height: 129%;
+    Align:Center;
+    Vertical-align: Top;
+    Letter-spacing: 0.2px;
+    border-radius:5px;
+    border:1px solid cadetblue;
+
+
+}
+button:hover{
+    color: white;
+    background-color:#96BB7C ;
+ 
+}
