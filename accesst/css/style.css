@@ -194,3 +194,42 @@
     margin-top:80px ;
    
 }
+.box-im{
+   position: relative;
+} 
+.img-text h6{
+    position: absolute;
+    top:0px;
+    background-color:red;
+    color:white;
+    width:32px;
+    height:24px;
+    margin:15px;
+    text-align: center;
+}
+.img-text .img-buy{
+    position: absolute;
+    top:236px;
+    left:104px;
+}
+.text-img-card{
+}
+.text-img-card h6{
+    color: #96BB7C;
+}
+.text-img-card{
+    position: relative;
+    margin-top:25px;
+    
+}
+.text-img-card .rer{
+    position:absolute;
+    right:px;
+}
+.text-img-card .train p{
+     background-color:black;
+     color: white;
+     border-radius:20px;
+     padding:6px;
+     float:right;
+}
